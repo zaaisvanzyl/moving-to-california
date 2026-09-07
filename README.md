@@ -1,33 +1,121 @@
-# How to move to California (for Canadians)
-A guide to moving to California (for Canadians)
+# How to Move to California (for Canadians)
 
-This is a brief guide for new (non-US) people moving to California. It is a painful process. Hopefully this guide makes it slightly less painful.
+A brief guide for non-US citizens moving to California. It is a painful process; hopefully, this guide makes it slightly less painful.
 
-Below is an ordered list of things to do when you move. There are many chicken-and-egg and catch-22s to be aware of.
+Follow these steps roughly in order. There are several chicken-and-egg problems and catch-22s to be aware of.
 
-1. Get an American Express credit card in your home country
-    1. Credit scores in your home country don’t count here, you’ll need it build it from scratch. However if you have Amex, you can apply for a US one once you arrive and start building US credit with it.
-2. Register in Rippling
-    1. Rippling will need info such as a bank account (see below), SSN, address, etc.. Generally, you won’t have any of this. Temporarily, you can put the SSN as blank (or some arbitrary number) and use the office address (1405 Minnesota St).
-    2. Betterment will require similar information, but oddly enough after you set your contribution limits, they lock your account until you validate it with a state ID. 
-    3. Note that Rippling needs your I-94 which you won’t have until you entered the US
-3. Open a bank account
-    1. All US banks require a SSN and state ID. You won’t have this yet (most likely). But, you’ll need a bank account for literally everything (getting paid, paying lease deposits, etc.). Try to find a bank from your home country that allows US accounts. I moved from Canada and used RBC Bank US. I could use all my Canadian info, and didn’t need an SSN or permanent address.
-4. Get an SSN
-    1. Depending on your visa, you’ll need different types of documents. You need to book an appointment at an SSN office. At this appointment, you’ll show your passport, visa, visa documents (I-94, I-9, etc.). Appointments are booked 2-4 weeks in advance, but they do allow walk-ins. When I went, I got there before open and waited ~90 min. (For Angela, it took about 10 mins wait at the office in Mission). After the appointment, you should receive your number relatively soon. Once you have it, update it in Rippling.
-    2. Note: your documents need to be printed. They do not accept digital copies.
-5. Sign a lease
-    1. Finding an apartment in SF is currently more difficult than building a SpaceX Falcon 9 rocket. Strategies for doing so are out of scope for this guide, but to add to the complexity, you will almost certainly face issues regarding 1) not having US credit, and 2) not having a state ID. Most landlords will be fine with both, but it can make the apartment hunt more difficult. We had several property managers refuse to look at our application because we did not have US credit. To get around this, we sent our Canadian credit reports and significant documentation (offer letters, pay stubs, etc.).
-6. Open a US bank account
-    1. Once you have a lease, you should be able to open a US bank account. However, some banks require a state ID. You can try to do this online, but it will likely get rejected. You’ll need to go in person to a bank. And of course, they are only open 9-5.
-    2. For the banks that do not require a state ID, you will need to show proof of address. At this point, you probably won’t have a utility bill or anything like that. The best solution is to have someone from Edison’s ops team write a letter stating that you work for Edison and reside at X address. Some banks might allow you to use your lease agreement, but most will need at least two forms of address verification.
-7. Get a car and car insurance
-    1. If you are getting a car, you’ll need a valid driver’s license (not necessarily from the US), a bank account (to buy the car), a SSN (if you need to do a credit application), and an address (for registration).
-    2. For the insurance, you don’t need a Californian driver’s license. You’ll need insurance before you can drive the car off the lot. Technically, you’ll need to get one within 10 days of establishing residency, but realistically it will take longer. I used Geico, and they credited my Canadian history and gave a reasonable rate. But, you’ll need to update the DL once you have a Californian DL.
-    3. Note: to get a Californian DL, you’ll need to do a road test (see below). For a road test, you’ll need a car. I’ve heard that rentals are not permitted to be used for road tests. UPDATE: you can use rental cars but it needs to be explicitly permitted in the agreement.
-8. Get a state ID
-    1. Once you have a Californian address, you’ll be eligible to get a driver’s license and real ID. To do this, you need a US phone number. The DMV website rejects non-US phone numbers. My phone supports an e-sim so I bought a $15/mo plan from Mint Mobile, and I now use both my Canadian number and my US number.
-    2. Once you have a DMV account, you should 1) Start the application process for a DL. You can do this online given that you have adequate documentation from the previous steps. 2) Book a DMV appointment. If you do the application online, you’ll be able to save a lot of time at the DMV. BUT, you’ll still need to do a road test (yes, unfortunately).
-    3. You’ll need to go to the DMV twice. On the first visit, you’ll apply for a permit. To get this, you’ll need to prove your address, provide identification documents, pass a vision test, and pass a knowledge test. Once you have the permit, you’ll be eligible to book the road test. Appointments are available, but typically will be several weeks out. BUT, they accept walk-ins. The secret here is that the DMV does not honor the order of the line outside. They honor the online queue. So what I did was went to the DMV at 8:40 (it opens at 9), and just rapidly refreshed the queuing system so that once it was live (happened at like 8:47), I got in line instantly and skipped basically the whole queue. 
-    4. For the drive test, you can book this online. You’ll need to bring 1) registration 2) insurance 3) your permit. If you are licensed in your home country, you do not need to bring a licensed California driver with you. Just bring your home country license. However, I’ve heard different reports on this. The test itself is easy. Significantly easier than the one in Canada. No parallel parking, highway driving, emergency stops, backing in, 3-point turns, etc.. You literally just drive around the DMV for 10 min. They’ll have you do a few turns and switch lanes. 
-    5. Note: the REAL ID is optional and allows you to travel within the US without a passport. You can still travel with a passport. Certain visas (TN included), don’t allow you to get a REAL ID).
+## 1. Get a credit card
+
+Credit scores in your home country don’t count here, so you’ll need to build yours from scratch. However, if you have an Amex card, you can apply for a US one once you arrive and start building US credit with it.
+
+## 2. Register for payroll
+
+Your payroll provider will need information such as a bank account, SSN, and address. Generally, you won’t have any of this yet. Temporarily, you may be able to leave the SSN blank and use your office address.
+
+## 3. Open a bank account
+
+All US banks require an SSN and state ID. You most likely won’t have these yet, but you’ll need a bank account for almost everything, including getting paid and paying lease deposits.
+
+Try to find a bank from your home country that allows US accounts. I moved from Canada and used RBC Bank US. I could use all my Canadian information and didn’t need an SSN or permanent address.
+
+## 4. Get an SSN
+
+Depending on your visa, you’ll need different documents. Book an appointment at an SSN office and bring:
+
+- Your passport
+- Your visa
+- Your visa documents, such as your I-94 and I-9
+
+Appointments are booked two to four weeks in advance, but walk-ins are allowed. When I went, I arrived before opening and waited about 90 minutes.
+
+After the appointment, you should receive your number relatively soon. Once you have it, update your payroll information.
+
+> **Important:** Bring printed documents. Digital copies are not accepted.
+
+## 5. Sign a lease
+
+Finding an apartment in SF is extremely difficult. You will almost certainly face two issues:
+
+1. You don’t have US credit.
+2. You don’t have a state ID.
+
+Many landlords will be fine with both, but these issues can make the apartment hunt more difficult. Several property managers refused to consider our application because we did not have US credit. To get around this, we sent our Canadian credit reports and supporting documents, such as offer letters and pay stubs.
+
+### Apartment-hunting tips
+
+- Book an Airbnb or Furnished Finder for your first month—or longer.
+- Check Zillow and Craigslist frequently. I built an agent to do this for me, and it worked incredibly well.
+- Message landlords as soon as listings are posted.
+- Try to schedule the earliest possible viewing.
+- Have your documents ready and be prepared to sign a lease immediately.
+
+## 6. Open a US bank account
+
+Once you have a lease, you should be able to open a US bank account. However, some banks require a state ID. You can try to apply online, but your application will likely be rejected. You may need to visit a bank in person—and, of course, they are only open from 9–5.
+
+For banks that do not require a state ID, you will need to show proof of address. At this point, you probably won’t have a utility bill or anything similar. Ask your employer to write a letter stating that you work for them and live at your address.
+
+Some banks might accept your lease agreement, but most will need at least two forms of address verification.
+
+## 7. Get a car and car insurance
+
+### Buying a car
+
+You’ll need:
+
+- A valid driver’s license, not necessarily from the US
+- A bank account to buy the car
+- An SSN if you need to complete a credit application
+- An address for registration
+
+### Getting insurance
+
+You don’t need a California driver’s license to get insurance, but you’ll need insurance before you can drive the car off the lot. Technically, you’ll need to get a California license within 10 days of establishing residency, but realistically, it will take longer.
+
+I used GEICO; they credited my Canadian driving history and gave me a reasonable rate. Update the license on your policy once you have a California license.
+
+### Preparing for the road test
+
+You’ll need a car for the road test. You can use a rental car, but it must be explicitly permitted in the rental agreement.
+
+## 8. Get a state ID
+
+### Create a DMV account
+
+Once you have a California address, you’ll be eligible to get a driver’s license. You need a US phone number because the DMV website rejects non-US phone numbers.
+
+My phone supports an eSIM, so I bought a $15/month plan from Mint Mobile. I now use both my Canadian and US numbers.
+
+Once you have a DMV account:
+
+1. Start the driver’s license application online, provided you have adequate documentation from the previous steps.
+2. Book a DMV appointment.
+
+Completing the application online will save you a lot of time at the DMV, but you’ll still need to do a road test.
+
+### First DMV visit: Get your permit
+
+You’ll need to:
+
+- Prove your address
+- Provide identification documents
+- Pass a vision test
+- Pass a knowledge test
+
+Once you have the permit, you’ll be eligible to book the road test. Appointments are typically several weeks out, but walk-ins are accepted.
+
+The DMV does not honor the order of the line outside; it honors the online queue. I arrived at 8:40 a.m. (it opened at 9:00) and rapidly refreshed the queuing system. Once it went live at about 8:47, I joined immediately and skipped almost the whole queue.
+
+### Second DMV visit: Take the driving test
+
+You can book the driving test online. Bring:
+
+- Registration
+- Insurance
+- Your permit
+
+If you are licensed in your home country, you may not need to bring a licensed California driver with you—just bring your home-country license. However, I’ve heard different reports about this.
+
+The test itself is significantly easier than the one in Canada: no parallel parking, highway driving, emergency stops, backing in, or three-point turns. You drive around the DMV area for about 10 minutes, making a few turns and lane changes.
+
+> **Note:** A REAL ID is optional and allows you to travel within the US without a passport. You can still travel with a passport. Certain visas, including TN visas, may not allow you to get a REAL ID.
